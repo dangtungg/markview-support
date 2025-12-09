@@ -48,7 +48,7 @@ Need help using MarkView?
 Or check our:
 
 - 📖 [Support & FAQ](https://getmarkview.com/support.html)
-- 💬 [Discussions](https://github.com/dangtungg/support/discussions)
+- 💬 [Discussions](https://github.com/dangtungg/markview-support/discussions)
 
 ---
 
@@ -122,5 +122,5 @@ If you love MarkView:
   <a href="https://getmarkview.com/">Website</a> •
   <a href="https://getmarkview.com/support.html">Support</a> •
   <a href="https://github.com/dangtungg/markview-support/issues">Issues</a> •
-  <a href="https://github.com/dangtungg/support/discussions">Discussions</a>
+  <a href="https://github.com/dangtungg/markview-support/discussions">Discussions</a>
 </div>
